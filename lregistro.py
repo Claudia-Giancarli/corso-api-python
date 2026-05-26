@@ -8,3 +8,6 @@ for p in voti:
     voti.insert(3)(3)
 
     voti.pop()
+voti={
+    
+}
